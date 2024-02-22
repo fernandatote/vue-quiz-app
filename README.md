@@ -6,6 +6,13 @@ A quiz app built with:
 - Lodash
 - [Open Trivia Database API](https://opentdb.com/)
 
+### Improvements made from tutorial base project
+- Disabled the “next” button until an answer is selected
+- Disabled selecting other answers before clicking “next” once the answer is submitted
+- Added a success page with user score and restart quiz button once all questions were answered
+
+Tutorial from [FreeCodeCamp](https://www.youtube.com/watch?v=4deVCNJq3qc&ab_channel=freeCodeCamp.org)
+
 ## Project setup
 ```
 npm install
