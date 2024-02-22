@@ -1,4 +1,10 @@
-# quiz
+# Vue.js Quiz App
+
+A quiz app built with:
+- Vue.js
+- Vue Bootstrap
+- Lodash
+- [Open Trivia Database API](https://opentdb.com/)
 
 ## Project setup
 ```
